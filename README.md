@@ -7,6 +7,21 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yml and config file may be used to install only certain pieces of it, such as Filebeat.
 
+[filebeat-config.txt](https://github.com/Cbott85/Week-13-Cloud-Project/files/8767137/filebeat-config.txt)
+
+[filebeat-playbook.txt](https://github.com/Cbott85/Week-13-Cloud-Project/files/8767138/filebeat-playbook.txt)
+
+[metricbeat-config.txt](https://github.com/Cbott85/Week-13-Cloud-Project/files/8767139/metricbeat-config.txt)
+
+[metricbeat-playbook.txt](https://github.com/Cbott85/Week-13-Cloud-Project/files/8767140/metricbeat-playbook.txt)
+
+[ansible-hosts.txt](https://github.com/Cbott85/Week-13-Cloud-Project/files/8767141/ansible-hosts.txt)
+
+[docker-playbook.txt](https://github.com/Cbott85/Week-13-Cloud-Project/files/8767142/docker-playbook.txt)
+
+[elk-playbook.txt](https://github.com/Cbott85/Week-13-Cloud-Project/files/8767143/elk-playbook.txt)
+
+
 
 This document contains the following details:
 - Description of the Topologu
