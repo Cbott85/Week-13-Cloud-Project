@@ -162,7 +162,10 @@ Download and launch the docker elk container, make ports 5601:5601, 9200:9200, a
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![Jump-Box Container](https://user-images.githubusercontent.com/97464485/170156701-2248dc7b-5fba-4eff-81f8-63fab248a5e6.png)
+![Web-1 Container](https://user-images.githubusercontent.com/97464485/170156703-16392e1e-dcb4-458b-ac88-6352256e8a43.png)
+![Web-2 Container](https://user-images.githubusercontent.com/97464485/170156705-9ee4b976-dbaf-4d88-b10a-3f2566f1071e.png)
+![Elk-Stack Container](https://user-images.githubusercontent.com/97464485/170156706-43d914c6-1868-41d6-bcff-741cf50b3253.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
